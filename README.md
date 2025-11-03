@@ -1,49 +1,53 @@
 # 👋 Hi, I'm Tanzim Rahman
 
-🎯 Full-Stack Developer | Passionate about building real-world MERN stack projects  
-📍 Based in St. John's, Canada 🇨🇦 | 🌎 Originally from Bangladesh
+I'm a future software engineer currently doing my Master's in Software Engineering at [Memorial University (MUN)](https://www.mun.ca). I love building meaningful projects with clean, modern web technologies.
+
+[🌐 tanzim-rahman.com](https://tanzim-rahman.com)
 
 ---
 
-### 💼 About Me
+## 🎓 Education
 
-With a strong foundation in React, Node.js, and MongoDB, I love turning ideas into user-friendly, full-stack applications. Whether it's organizing notes in Markdown or crafting a responsive UI, I strive for clean code and real-world impact.
-
-🔗 **Portfolio:** [tanzim.rahman.com](https://tanzim.rahman.com)  
-💼 **LinkedIn:** [linkedin.com/in/tanzim-rahman08](https://www.linkedin.com/in/tanzim-rahman08)
-
----
-
-### 🧰 Tech Stack
-
-- 💻 **Frontend**: React.js, Redux, Tailwind CSS, Bootstrap  
-- 🧠 **Backend**: Node.js, Express.js, MongoDB, JWT Auth  
-- 🌐 **Others**: REST API, Git & GitHub, Postman, VS Code  
-- ⚙️ **Learning Now**: CI/CD, MongoDB Aggregation, SEO
+- **MASc in Software Engineering** *(Started from Sept 2025)*  
+  Memorial University of Newfoundland, Canada  
+- **BSc in Computer Science**  
+  [BRAC University], Bangladesh 
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Skills
 
-#### 📝 Notes App with Markdown Support (MERN)
-> A full-stack note-taking app with Markdown editor, JWT authentication, and responsive UI.
+**Frontend:**  
+HTML · CSS · JavaScript · React · Tailwind CSS · Bootstrap · JQuery   
 
-- ✅ Private Notes per User (Secure Auth)
-- 🖋 Markdown Support (Headings, Code, Links)
-- 🔍 Filter + Search
-- 🌙 Light/Dark Mode Toggle
-- 🧩 Built from scratch using MERN stack
+**Backend:**  
+Node.js · Express.js · MongoDB  · Python · PHP
 
-[Frontend Code](https://github.com/rahmantanzim/notes-frontend) | [Backend Code](https://github.com/rahmantanzim/notes-backend) | [Live Demo](https://tanzim.rahman.com/notes)
+**Other:**  
+Git · GitHub · REST API · WordPress · Figma   
 
-#### 🛒 E-Commerce Platform (Coming Soon)
-> A scalable MERN e-commerce application with admin dashboard, cart, payments & more!
 ---
 
-### 📬 Let's Connect
+## 🧩 Recent Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tanzim-rahman08/)
-- 🌐 [Portfolio Website](https://tanzim.rahman.com)
-- 📫 [Email Me](mailto:tanzim008@gmail.com)
+- **Notes App (MERN Stack)**  
+  Markdown support · JWT Auth · CRUD · Responsive UI
+
+- **Heritage Archives (WordPress Site)**  
+  Custom archive for historical documents and photographs  
+  [Live site coming soon]
+
+- **Encrypted Chat (Python CLI)**  
+  Peer-to-peer messaging with RSA-based public key encryption, a project for my master's course 'Computer Software Fundamentals'
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration, freelance work, and internships in full-stack development or research-based software projects.
+
+- **Email: tanzimr@mun.ca** 
+- **LinkedIn:** [linkedin.com/in/tanzim-rahman08](https://www.linkedin.com/in/tanzim-rahman08)
+- **GitHub:** [github.com/rahmantanzim](https://github.com/rahmantanzim)
 
 ---
